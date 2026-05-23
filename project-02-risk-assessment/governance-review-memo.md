@@ -1,4 +1,4 @@
-# Governance Review Memo
+# AI Governance Review Memo
 
 **To:** Chief Executive Officer · Board Risk & Audit Committee
 **From:** AI Governance Programme Office
